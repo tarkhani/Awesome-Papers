@@ -1,0 +1,4 @@
+A Secure Sign-On Protocol for
+Smart Homes over Named Data Networking
+
+http://web.cs.ucla.edu/~lixia/papers/1907Secure-SignOn.pdf
