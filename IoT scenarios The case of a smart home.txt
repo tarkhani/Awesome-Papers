@@ -1,0 +1,5 @@
+Amadeo, Marica, Claudia Campolo, Antonio Iera, and
+ Antonella Molinaro. "Information Centric Networking
+ in IoT scenarios: The case of a smart home." In 2015 
+IEEE international conference on communications (ICC),
+ pp. 648-653. IEEE, 2015.

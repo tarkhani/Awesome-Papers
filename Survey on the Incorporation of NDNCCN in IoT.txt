@@ -1,0 +1,4 @@
+
+Aboodi, Ahed, Tat-Chee Wan, and Gian-Chand Sodhy.
+ "Survey on the Incorporation of NDN/CCN in IoT." 
+IEEE Access 7 (2019): 71827-71858.

@@ -1,0 +1,5 @@
+Yu, Yingdi, Alexander Afanasyev, David Clark,
+ K. C. Claffy, Van Jacobson, and Lixia Zhang.
+ "Schematizing trust in named data networking."
+ In proceedings of the 2nd ACM Conference on 
+Information-Centric Networking, pp. 177-186. 2015.
