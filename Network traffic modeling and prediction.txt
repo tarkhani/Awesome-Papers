@@ -1,0 +1,4 @@
+Zhou, Bo, Dan He, Zhili Sun, and Wee Hock Ng.
+ Network traffic modeling and prediction with
+ ARIMA GARCH. In Proc. of HET-NETs Conference,
+ pp. 1-10. 2005.
