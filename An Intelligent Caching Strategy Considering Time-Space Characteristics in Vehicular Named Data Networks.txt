@@ -1,0 +1,6 @@
+An Intelligent Caching Strategy Considering
+ Time-Space Characteristics in Vehicular 
+Named Data Networks
+
+
+https://ieeexplore.ieee.org/abstract/document/9658313
