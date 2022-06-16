@@ -1,0 +1,5 @@
+Cluster-Based Cooperative Caching With Mobility
+Prediction in Vehicular Named Data Networking
+
+
+https://ieeexplore.ieee.org/abstract/document/8635449/
